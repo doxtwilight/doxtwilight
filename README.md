@@ -1,4 +1,6 @@
 
+<!-- =============== HEADER =============== -->
+
 <h3 align="center">Hey, I'm Twilight.</h3>
 
 <p align="center">
@@ -8,6 +10,8 @@
 </p>
 
 ---
+
+<!-- =============== ABOUT ME =============== -->
 
 <h2 align="left">About Me</h2>
 
@@ -25,15 +29,19 @@
 <p align="center">
   <code>01</code> — Build meaningful projects<br>
   <code>02</code> — Explore advanced technologies<br>
-  <code>03</code> — Engineer innovative solutions<br><br>
+  <code>03</code> — Engineer innovative solutions
+  <br><br>
   <code>Discord: twilight2920</code>
 </p>
 
 ---
 
+<!-- =============== SKILLS =============== -->
+
 <h2 align="center">Skills & Technologies</h2>
 
 <div align="center">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
@@ -43,33 +51,67 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+
 </div>
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+<!-- =============== GITHUB ACTIVITY =============== -->
+
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=doxtwilight&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" height="150" alt="GitHub Statistics"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doxtwilight&layout=compact&theme=dracula&hide_border=true&langs_count=5" height="150" alt="Most Used Languages"/>
+<a href="https://github.com/doxtwilight">
+
+<img
+  src="https://streak-stats.demolab.com?user=doxtwilight&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=AAAAAA&sideNums=FFFFFF&dates=777777"
+  width="90%"
+  alt="Total Contributions, Current Streak and Longest Streak"
+/>
+
+</a>
+
+</div>
+
+---
+
+<!-- =============== CONNECT =============== -->
+
+<h2 align="center">Connect With Me</h2>
+
+<div align="center">
+
+<a href="https://github.com/doxtwilight">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
+</a>
+
+<a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
+  <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord"/>
+</a>
+
+<br><br>
+
+<code>Discord: twilight2920</code>
+
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/doxtwilight">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="Discord"/>
-  </a>
+
+<h3>Think. Build. Innovate.</h3>
+
+<sub>Turning curiosity into code and ideas into reality.</sub>
+
+<br><br>
+
+<a href="https://github.com/doxtwilight">
+  <img src="https://komarev.com/ghpvc/?username=doxtwilight&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="Profile Views"/>
+</a>
+
+<br><br>
+
+<sub>© 2026 · Twilight</sub>
+
 </div>
-
-<br>
-
-<p align="center">
-  <code>Think. Build. Innovate.</code><br>
-  <sub>Turning curiosity into code and ideas into reality.</sub>
-</p>
