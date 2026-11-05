@@ -1,7 +1,13 @@
 
-<!-- =============== HEADER =============== -->
 
-<h3 align="center">Hey, I'm Twilight.</h3>
+<!-- =============== ANIMATED HEADER =============== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=450&lines=Hey%2C+I'm+Twilight.;Developer+%7C+Dreamer+%7C+Creator.;Always+Learning.+Always+Building."
+    alt="Hey, I'm Twilight"
+  />
+</p>
 
 <p align="center">
   <code>&lt; Developer /&gt;</code> ·
@@ -9,7 +15,6 @@
   <code>// Creator</code>
 </p>
 
----
 
 <!-- =============== ABOUT ME =============== -->
 
